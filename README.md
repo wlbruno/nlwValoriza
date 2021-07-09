@@ -3,9 +3,9 @@
 ## Regras
 
 - Cadastro de Usuário   
-    [ ] Não é permitido cadastrar mais um usuário com o mesmo e-mail.
+    [X] Não é permitido cadastrar mais um usuário com o mesmo e-mail.
     
-    [ ] Não é permitido cadastrar usuário sem e-mail
+    [X] Não é permitido cadastrar usuário sem e-mail
 
 - Cadastro de TAG
     
